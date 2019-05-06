@@ -1,0 +1,25 @@
+{
+  "name": "catap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "serve": "^11.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidBruant/catap.git"
+  },
+  "keywords": [],
+  "author": "David Bruant <bruant.d@gmail.com> (https://twitter.com/DavidBruant)",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/DavidBruant/catap/issues"
+  },
+  "homepage": "https://github.com/DavidBruant/catap#readme"
+}
